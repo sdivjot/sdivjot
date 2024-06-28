@@ -1,5 +1,6 @@
 <h1 align="center">Heyy 👋, I'm Divjot Singh</h1>
 <h3 align="center">A passionate Full Stack and Blockchain Developer from India</h3>
+<img align="center" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" />
 
 - 🔭 I’m currently working on various decentralized projects like **Decentralized Real-Estate Management, Online Shopping, etc.**
 
