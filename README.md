@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on various decentralized projects like **Real-Estate Management, Online Shopping, etc.**
 
-- 🌱 I’m currently learning **GoLang and DSA**
+- 🌱 I’m currently learning **Deep Learning and DSA**
 
 - 📫 Reach out to me at: **singhdivjot10@gmail.com**
 
